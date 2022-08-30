@@ -50,6 +50,7 @@ softdepend:
   - GroupManager
   - ClearLag
   - Essentials
+  - GardensPlayers
   - CMI
   - PlotSquared
   - Residence
